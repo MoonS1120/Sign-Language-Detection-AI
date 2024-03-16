@@ -7,5 +7,5 @@
 ## Description
 A deep learning AI model that detects ASL alphabet sign language
 
-### Dataset
+## Resource
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
