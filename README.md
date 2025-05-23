@@ -9,3 +9,6 @@ A deep learning AI model that detects ASL alphabet sign language
 
 ## Resource
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
+## License
+This project is licensed under the GPL-2.0 License
